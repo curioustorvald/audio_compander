@@ -1,0 +1,2 @@
+* Sampling rate: 32000 or lower
+* Amplify the audio so that highest peak would be +1.184 dB (+1.146 linear amplitude) (input audio will contain clipping. This is done to maximise the bits usage)
